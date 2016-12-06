@@ -1,0 +1,16 @@
+cd stage-1
+cd desktop
+cd stage-1
+cd lake-tahoe
+cd 3-up-and-running-with-sass
+cd lake-tahoe
+atom .
+cd ..
+cd lake-tahoe
+atom .
+sass --watch scss:css
+sass --watch sccs:css
+sass --watch scss:css
+sass --watch scss:css
+sass --watch scss:css
+sass --watch scss:css
